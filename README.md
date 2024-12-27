@@ -6,7 +6,7 @@
 
 Using the **ReactJS library**.
 
-[![alt text](/public/react.svg)](https://react.dev/)  **&** [![alt text](/public/javascript.svg)](https://en.wikipedia.org/wiki/JavaScript) **&** [![alt text](/public/tailwind.svg)](https://tailwindcss.com/) **&** [![alt text](public/sass.svg)](https://sass-lang.com/) **&** [![alt text](public/jotai.png)](https://jotai.org/)
+[![alt text](/public/vite.svg)](https://vitejs.dev/) **&** [![alt text](/public/react.svg)](https://react.dev/)  **&** [![alt text](/public/typescript.svg)](https://www.typescriptlang.org/) **&** [![alt text](/public/tailwind.svg)](https://tailwindcss.com/) **&** [![alt text](public/sass.svg)](https://sass-lang.com/) **&** [![alt text](public/jotai.png)](https://jotai.org/)
 
 **Figma Link:** [Beauty and Clinic](https://www.figma.com/design/Ry2YV1BCuUR3m0xPZdqrGP/Beautice---Clinic-%26-Beauty-Consultation-Website-Design?node-id=513-2&node-type=canvas&t=vKCDwo3FlkNBcL8j-0)
 
